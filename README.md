@@ -1,6 +1,6 @@
 # stock-trader
 
-##Descrição
+## Descrição
 ```
 Projeto de estudos em vue, simulando um pit de negociação de ações.
 
